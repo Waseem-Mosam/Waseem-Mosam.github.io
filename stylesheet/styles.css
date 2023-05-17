@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #050021;
+}
+
+
+/* Navigation styling */
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links{
+    float: right;
+}
+
+.nav li{
+    display: inline;
+    padding: 7px;
+}
+
+.nav-index{
+    color: #FDFFAF;
+}
+
+#logo{
+    float: left;
+}
