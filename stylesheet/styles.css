@@ -13,7 +13,7 @@ body{
     color: white;
 }
 
-.nav-links{
+.nav{
     float: right;
 }
 
@@ -26,6 +26,6 @@ body{
     color: #FDFFAF;
 }
 
-#logo{
+.logo{
     float: left;
 }
